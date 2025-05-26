@@ -1,0 +1,5 @@
+[
+{"run_accession":"ERR159958","sample_accession":"SAMEA1711064","experiment_accession":"ERX135903","study_accession":"PRJEB3124","tax_id":"1773","scientific_name":"Mycobacterium tuberculosis","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/ERR159/ERR159958/ERR159958_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/ERR159/ERR159958/ERR159958_2.fastq.gz","submitted_ftp":"ftp.sra.ebi.ac.uk/vol1/run/ERR159/ERR159958/MTB_BTBH0127_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/run/ERR159/ERR159958/MTB_BTBH0127_2.fastq.gz","sra_ftp":"ftp.sra.ebi.ac.uk/vol1/err/ERR159/ERR159958","bam_ftp":""}
+,
+{"run_accession":"ERR159959","sample_accession":"SAMEA1711066","experiment_accession":"ERX135904","study_accession":"PRJEB3124","tax_id":"1773","scientific_name":"Mycobacterium tuberculosis","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/ERR159/ERR159959/ERR159959_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/ERR159/ERR159959/ERR159959_2.fastq.gz","submitted_ftp":"ftp.sra.ebi.ac.uk/vol1/run/ERR159/ERR159959/MTB_BTBH0444_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/run/ERR159/ERR159959/MTB_BTBH0444_2.fastq.gz","sra_ftp":"ftp.sra.ebi.ac.uk/vol1/err/ERR159/ERR159959","bam_ftp":""}
+]
