@@ -1,6 +1,9 @@
 #!/usr/bin/python3
 import os
 
+# if files were made previously downloading a certain number of sequences, this script 
+# can be used to make downloading files for the following accessions
+
 accession_numbers = []
 n_to_download = 250
 for file in os.listdir('./all_phopr/'):

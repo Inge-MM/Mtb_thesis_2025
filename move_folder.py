@@ -1,5 +1,8 @@
 import os
 
+# this script was used on bazis (now ada) to move finished sequences into
+# a seperate dir for downloading
+
 export_folder = 'phopr_export11'
 sequences_batch = 'sequences'
 what_to_export = 'phopr_region/*.fasta'

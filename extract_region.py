@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+# This file takes the previously made consensus sequences and returns a specified region
+# in this case PhoPR
 import os
 import argparse
 import textwrap

@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
+# this script runs the entire sequence alignment pipeline and returns a consensus sequence
 import os
 import argparse
 
